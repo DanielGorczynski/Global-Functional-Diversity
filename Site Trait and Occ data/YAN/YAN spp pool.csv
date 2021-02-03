@@ -1,0 +1,32 @@
+﻿Species,Body Mass,Diet,Social Group Size,Habitat,Activity Period,Avg. Litter Size
+Tremarctos ornatus,126.5,Browser/Frugivore,Solitary/pairs,scansorial,Diurnal,1.66
+Didelphis pernigra,1.01,Omnivore,Solitary/pairs,scansorial,Nocturnal,6.49
+Sciurus ignitus,0.201,Frugivore/Seed Predator,Solitary/pairs,scansorial,Diurnal,2
+Cuniculus taczanowskii,9,Frugivore/Seed predator,Solitary/pairs,terrestrial,Nocturnal,1
+Sciurus spadiceus,0.51,Frugivore/Seed Predator,Solitary/pairs,scansorial,Diurnal,2
+Sciurus igniventris,0.7,Frugivore/Seed Predator,Solitary/pairs,scansorial,Diurnal,2
+Tapirus terrestris,183,Browser/Frugivore,Solitary/pairs,terrestrial,Nocturnal/Crepuscular,1
+Didelphis marsupialis,1.09,Omnivore,Solitary/pairs,scansorial,Nocturnal/Crepuscular,5.1
+Dasypus novemcinctus,4.2,Insectivore,Solitary/pairs,terrestrial,Nocturnal/Crepuscular,4
+Pecari tajacu,18.5,Browser/Frugivore,Gregarious,terrestrial,Diurnal,2
+Tayassu pecari,31.2,Browser/Frugivore,Gregarious,terrestrial,Non-restricted,2
+Mazama americana,35.27,Browser/Frugivore,Solitary/pairs,terrestrial,Nocturnal,1.26
+Leopardus pardalis,11.9,Carnivore,Solitary/pairs,scansorial,Nocturnal/Crepuscular,1.63
+Metachirus nudicaudatus,0.375,Insectivore,Solitary/pairs,terrestrial,Nocturnal,5
+Priodontes maximus,34.75,Insectivore,Solitary/pairs,terrestrial,Nocturnal,1.29
+Panthera onca,92.45,Carnivore,Solitary/pairs,scansorial,Crepuscular,2
+Speothos venaticus,6.16,Carnivore,Family,terrestrial,Non-restricted,4.05
+Nasua nasua,4.15,Omnivore,Gregarious,scansorial,Diurnal,3.84
+Conepatus chinga,2.66,Zoophage,Solitary/pairs,terrestrial,Nocturnal,3.5
+Pseudalopex culpaeus,9.18,Carnivore,Solitary/pairs,terrestrial,Nocturnal,4.44
+Atelocynus microtis,8.93,Zoophage,Solitary/pairs,terrestrial,Non-restricted,2.5
+Cabassous unicinctus,4.75,Insectivore,Solitary/pairs,terrestrial,Nocturnal,1
+Cuniculus paca,8.28,Frugivore/Seed Predator,Solitary/pairs,terrestrial,Nocturnal,1.5
+Dasyprocta fuliginosa,3.65,Frugivore/Seed Predator,Solitary/pairs,terrestrial,Diurnal,2
+Dasypus kappleri,9.7,Insectivore,Solitary/pairs,terrestrial,Nocturnal/Crepuscular,5.6
+Eira barbara,3.91,Zoophage,Coalitions,scansorial,Diurnal,2
+Leopardus wiedii,3.25,Carnivore,Solitary/pairs,scansorial,Non-restricted,1.5
+Myrmecophaga tridactyla,28.2,Insectivore,Solitary/pairs,terrestrial,Non-restricted,1
+Procyon cancrivorus,6.83,Omnivore,Solitary/pairs,scansorial,Nocturnal,2.81
+Puma concolor,51.6,Carnivore,Solitary/pairs,scansorial,Nocturnal,2.9
+Puma yagouaroundi,8.4,Carnivore,Solitary/pairs,scansorial,Non-restricted,1.9

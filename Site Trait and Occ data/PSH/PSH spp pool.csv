@@ -1,0 +1,46 @@
+﻿Species,Body Mass,Diet,Social Group Size,Habitat,Activity Period,Avg. Litter Size
+Helarctos malayanus,51.5,Omnivore,Solitary/pairs,scansorial,Nocturnal,1.25
+Rattus annandalei,0.198,Omnivore,Solitary/pairs,terrestrial,Nocturnal,3.8
+Herpestes brachyurus,1.4,Insectivore,Solitary/pairs,terrestrial,Diurnal,3.5
+Viverra tangalunga,7.68,Omnivore,Solitary/pairs,scansorial,Nocturnal,1.96
+Elephas maximus,3240,Browser Grazer,Gregarious,terrestrial,Non-restricted,1
+Tragulus napu,5.24,Browser/Frugivore,Solitary/pairs,terrestrial,Nocturnal,1
+Pardofelis marmorata,3.17,Carnivore,Solitary/pairs,scansorial,Non-restricted,2
+Pardofelis temminckii,10.65,Carnivore,Solitary/pairs,scansorial,Non-restricted,1.11
+Sundasciurus hippurus,0.369,Frugivore/Seed Predator,Solitary/pairs,scansorial,Diurnal,3
+Maxomys rajah,0.139,Omnivore,Solitary/pairs,terrestrial,Nocturnal,3.25
+Leopoldamys ciliatus,0.325,Frugivore/Seed predator,Solitary/pairs,scansorial,Nocturnal,1.94
+Lariscus insignis,0.175,Frugivore/Seed Predator,Solitary/pairs,terrestrial,Diurnal,2
+Tragulus kanchil,1.95,Browser/Frugivore,Solitary/pairs,terrestrial,Non-restricted,1
+Rhinosciurus laticaudatus,0.225,Insectivore,Solitary/pairs,terrestrial,Diurnal,1.32
+Leopoldamys sabanus,0.363,Omnivore,Solitary/pairs,scansorial,Nocturnal,4.86
+Muntiacus muntjak,20.95,Browser,Solitary/pairs,terrestrial,Non-restricted,1
+Tupaia glis,0.136,Omnivore,Solitary/pairs,scansorial,Diurnal,2
+Rattus rattus,0.172,Omnivore,Gregarious,scansorial,Nocturnal,6.6
+Rattus argentiventer,0.165,Omnivore,Solitary/pairs,terrestrial,Nocturnal,7
+Macaca nemestrina,7.19,Frugivore/Seed Predator,Gregarious,scansorial,Diurnal,1
+Mustela nudipes,0.569,Carnivore,Solitary/pairs,terrestrial,Non-restricted,3.99
+Hemigalus derbyanus,1.64,Insectivore,Solitary/pairs,terrestrial,Nocturnal,1.73
+Sundamys muelleri,0.328,Omnivore,Solitary/pairs,scansorial,Nocturnal,3.8
+Echinosorex gymnura,0.917,Insectivore,Solitary/pairs,terrestrial,Nocturnal,1.95
+Manis javanica,4.86,Insectivore,Solitary/pairs,scansorial,Nocturnal,1
+Sus scrofa,84.5,Browser,Coalitions,terrestrial,Non-restricted,5.81
+Herpestes javanicus,0.833,Zoophage,Solitary/pairs,terrestrial,Diurnal,3.11
+Prionailurus bengalensis,3.9,Carnivore,Solitary/pairs,scansorial,Nocturnal/Crepuscular,2.5
+Viverricula indica,2.99,Zoophage,Solitary/pairs,scansorial,Nocturnal,3.89
+Martes flavigula,2.85,Omnivore,Coalitions,scansorial,Non-restricted,2.5
+Rusa unicolor,202.25,Browser Grazer,Coalitions,terrestrial,Nocturnal/Crepuscular,1
+Viverra zibetha,8.58,Omnivore,Solitary/pairs,terrestrial,Nocturnal,2.95
+Herpestes urva,2.19,Insectivore,Solitary/pairs,terrestrial,Diurnal,2.99
+Atherurus macrourus,2.89,Browser/Frugivore,Family,scansorial,Nocturnal,1.36
+Viverra megaspila,9.06,Omnivore,Solitary/pairs,scansorial,Nocturnal,2.45
+Rhizomys sumatrensis,2.25,Browser/Frugivore,Solitary/pairs,terrestrial,Nocturnal/Crepuscular,4.47
+Maxomys surifer,0.182,Omnivore,Solitary/pairs,scansorial,Nocturnal,3.55
+Neofelis nebulosa,16.1,Carnivore,Solitary/pairs,scansorial,Non-restricted,2.13
+Capricornis sumatraensis,93,Browser,Solitary/pairs,terrestrial,Crepuscular,1
+Cuon alpinus,17.17,Carnivore,Gregarious,terrestrial,Diurnal,4.25
+Hystrix brachyura,8,Browser/Frugivore,Family,terrestrial,Nocturnal,1.41
+Panthera pardus,49.35,Carnivore,Solitary/pairs,scansorial,Nocturnal/Crepuscular,2
+Prionailurus planiceps,2.83,Carnivore,Solitary/pairs,terrestrial,Nocturnal/Crepuscular,3
+Prionodon linsang,0.69,Omnivore,Solitary/pairs,scansorial,Nocturnal,2.27
+Tapirus indicus,302,Browser,Solitary/pairs,terrestrial,Nocturnal,1

@@ -1,0 +1,30 @@
+﻿Species,Body Mass,Diet,Social,Habitat,Activity,Litter
+Cabassous unicinctus,4.75,Insectivore,Solitary/pairs,terrestrial,Nocturnal,1
+Cuniculus paca,8.28,Frugivore/Seed Predator,Solitary/pairs,terrestrial,Nocturnal,1.5
+Dasyprocta leporina,2.86,Frugivore/Seed Predator,Solitary/pairs,terrestrial,Diurnal,1.78
+Dasypus kappleri,9.7,Insectivore,Solitary/pairs,terrestrial,Nocturnal/Crepuscular,5.6
+Dasypus novemcinctus,4.2,Insectivore,Solitary/pairs,terrestrial,Nocturnal/Crepuscular,4
+Didelphis marsupialis,1.09,Omnivore,Solitary/pairs,scansorial,Nocturnal/Crepuscular,5.1
+Eira barbara,3.91,Zoophage,Coalitions,scansorial,Diurnal,2
+Leopardus pardalis,11.9,Carnivore,Solitary/pairs,scansorial,Nocturnal/Crepuscular,1.63
+Leopardus tigrinus,2.1,Carnivore,Solitary/pairs,scansorial,Non-restricted,2
+Leopardus wiedii,3.25,Carnivore,Solitary/pairs,scansorial,Non-restricted,1.5
+Mazama americana,35.27,Browser/Frugivore,Solitary/pairs,terrestrial,Nocturnal,1.26
+Mazama nemorivaga,14.75,Browser/Frugivore,Solitary/pairs,terrestrial,Non-restricted,1
+Metachirus nudicaudatus,0.375,Insectivore,Solitary/pairs,terrestrial,Nocturnal,5
+Myoprocta acouchy,1.097,Frugivore/Seed Predator,Family,terrestrial,Diurnal,1.99
+Myrmecophaga tridactyla,28.2,Insectivore,Solitary/pairs,terrestrial,Non-restricted,1
+Nasua nasua,4.15,Omnivore,Gregarious,scansorial,Diurnal,3.84
+Odocoileus virginianus,55.5,Browser,Family,terrestrial,Crepuscular,1.7
+Panthera onca,92.45,Carnivore,Solitary/pairs,scansorial,Crepuscular,2
+Pecari tajacu,18.5,Browser/Frugivore,Gregarious,terrestrial,Diurnal,2
+Philander opossum,0.421,Omnivore,Solitary/pairs,scansorial,Nocturnal,4.5
+Priodontes maximus,34.75,Insectivore,Solitary/pairs,terrestrial,Nocturnal,1.29
+Procyon cancrivorus,6.83,Omnivore,Solitary/pairs,scansorial,Nocturnal,2.81
+Proechimys cuvieri,0.316,Frugivore/Seed Predator,Solitary/pairs,scansorial,Nocturnal,2.5
+Proechimys guyannensis,0.315,Frugivore/Seed Predator,Solitary/pairs,scansorial,Nocturnal,2.4
+Puma concolor,51.6,Carnivore,Solitary/pairs,scansorial,Nocturnal,2.9
+Puma yagouaroundi,8.4,Carnivore,Solitary/pairs,scansorial,Non-restricted,1.9
+Speothos venaticus,6.16,Carnivore,Family,terrestrial,Non-restricted,4.05
+Tapirus terrestris,183,Browser/Frugivore,Solitary/pairs,terrestrial,Nocturnal/Crepuscular,1
+Tayassu pecari,31.2,Browser/Frugivore,Gregarious,terrestrial,Non-restricted,2
