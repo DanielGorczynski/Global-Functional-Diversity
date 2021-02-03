@@ -25,7 +25,7 @@ may be more beneficial in more productive ecosystems and may allow
 species to persist at higher abundances.
 
 # Description of all code and data files included in the repository
-##Code
+## Code
 Global FD Code ProcB.R - All code used in the manuscript, including calculation of functional diversity metrics, Bayesian regressions, and figures
 
 ## Data
