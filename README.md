@@ -26,7 +26,7 @@ species to persist at higher abundances.
 
 # Description of all code and data files included in the repository
 ## Code
-Global FD Code ProcB.R - All code used in the manuscript, including calculation of functional diversity metrics, Bayesian regressions, and figures
+Global FD Code ProcB.R - All code used in the manuscript, including calculation of functional diversity metrics, Bayesian regressions, and figures. Code can be run consecutively. 
 
 ## Data
 All TEAM Occupancy.csv- Data frame containing median occupancy estimates for all species monitored at TEAM sites over the years that surveys were conducted at each site. Formatted for use in Global FD Code ProcB.R
